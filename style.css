@@ -1,0 +1,50 @@
+header{
+    margin: 0%;
+    background-color: rgb(255, 0, 128);(78,123,145);
+border: 0px;
+padding: 3px;
+text-align:center;
+align-items:center;
+font-size:large;
+}
+h1{
+    color: rgb(46, 226, 43);   
+}
+body{
+    background-color: ;
+    text-decoration-color: azure;
+    background: url(MAJI.jpg);
+}  
+.name{
+    font-size: 80px;
+    font-weight: bolder;
+    text-align:center;
+
+}
+home section{
+    font-size: 30px;
+}
+hr{
+    width: 120px;
+    margin: 0 outo;
+    margin-top: 20px;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.about >img{
+    width: 150px;
+    height: 200px;
+    border-radius:  50%;  
+}
+.about-content>h1{
+    font-size: xx-large;
+    font-weight: 900;
+}
+.about-content>p{
+    font-size: large;
+}
+hr{
+    text-align: center;
+}
